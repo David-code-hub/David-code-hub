@@ -1,6 +1,6 @@
 # Hi there, I'm David 👋
 
-## What I'm Doing
+## Hobbies & Interests
 
 - 📖 The Gospel(Bible)
 - 😽 Anime
