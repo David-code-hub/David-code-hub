@@ -5,7 +5,7 @@
 - 📖 The Gospel(Bible)
 - 😽 Anime
 - 🎮 Gaming
-- 🤝 Collaborating with other dev
+- 🤝 Collaborating with other devs
 - 🧠 Self-awareness
 - 🌳 Nature
   
