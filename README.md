@@ -13,6 +13,7 @@
 
 - 🚀 Working at a startup
 - 🌱 Learning AWS
+- 🏋️ Learning MERN stack
 - 👀 Watching last season of Mob psycho
 
 
