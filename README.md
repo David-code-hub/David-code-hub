@@ -5,6 +5,7 @@
 - 📖 The Gospel(Bible)
 - 😽 Anime
 - 🎮 Gaming
+    - CODM 20x legendary [Gaming YT](https://www.youtube.com/@lee_sweet_codm8577/featured)
 - 🤝 Collaborating with other devs
 - 🧠 Self-awareness
 - 🌳 Nature
