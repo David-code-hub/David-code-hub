@@ -9,6 +9,7 @@
 - 🤝 Collaborating with other devs
 - 🧠 Self-awareness
 - 🌳 Nature
+- 🤔 Favourite anime character **Obito Uchiha**
   
 ## What I'm Doing
 
