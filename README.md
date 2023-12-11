@@ -12,7 +12,6 @@
 - 🤝 Collaborating with other devs
 - 🧠 Self-awareness
 - 🌳 Nature
-- 🤔 Favourite anime character **Obito Uchiha**
   
 ## What I'm Doing
 
@@ -20,15 +19,6 @@
 - 🌱 Learning AWS
 - 🏋️ Learning MERN stack
 - 👀 Watching last season of Jujustu Kaisen
-
-
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/David-code-hub">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=David-code-hub&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
 
 <h2 align="center">Proverbs 3:5-6</h2>
 
