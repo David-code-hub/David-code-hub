@@ -1,7 +1,7 @@
 
 ## Hi there, I'm David 👋
 
-🚀 Currently vibing with JavaScript and Python.
+🚀 Currently vibing with JavaScript and Python
 
 ## Hobbies & Interests
 
