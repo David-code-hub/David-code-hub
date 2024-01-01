@@ -1,17 +1,7 @@
 
 ## Hi there, I'm David 👋
 
-🚀 Currently vibing with JavaScript and Python
-
-## Hobbies & Interests
-
-- 📖 The Gospel(Bible)
-- 😽 Anime
-- 🎮 Gaming
-    - CODM 20x legendary [Gaming YT](https://www.youtube.com/@lee_sweet_codm8577/featured)
-- 🤝 Collaborating with other devs
-- 🧠 Self-awareness
-- 🌳 Nature
+I'm an enthusiastic developer based in Cape Town, South Africa, with over 5 years of experience in the tech industry. I find joy in drawing, gaming, and, of course, indulging in some anime. My expertise lies in Python and my beloved JavaScript!
 
 <h2 align="center">Proverbs 3:5-6</h2>
 
