@@ -1,7 +1,7 @@
 
 ## Hi there, I'm David 👋
 
-I'm an enthusiastic developer based in Cape Town, South Africa, with over 5 years of experience in the tech industry. I find joy in drawing, gaming, and, of course, indulging in some anime. My expertise lies in Python and my beloved JavaScript!
+I'm an enthusiastic developer based in South Africa, Cape Town with over 5 years of experience in the tech industry. I find joy in drawing, gaming, and, of course, indulging in some anime. My expertise lies in Python and my beloved JavaScript!
 
 <h2 align="center">Proverbs 3:5-6</h2>
 
