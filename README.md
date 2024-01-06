@@ -1,5 +1,5 @@
 
-## Hi there, I'm David 👋
+### Hi there, I'm David 👋
 
 I'm an enthusiastic developer based in South Africa, Cape Town. I find joy in drawing, gaming, and, of course, indulging in some anime. My expertise lies in Python and my beloved JavaScript!
 
