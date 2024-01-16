@@ -4,9 +4,9 @@ It's not a bug, it's a 'feature' 🤫
 
 ### Quotes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" />
 
-> _"Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.”_
+<!-- > _"Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.”_ -->
 
-<h5 align="right"><i>― Bruce Lee</i></h5>
+<!--<h5 align="right"><i>― Bruce Lee</i></h5>-->
 
 > _"The things you own, end up owning you."_
 
