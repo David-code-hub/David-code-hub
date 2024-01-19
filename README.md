@@ -1,6 +1,6 @@
 ### Hi, I'm David <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="40" height="40" />
 
-It's not a bug, it's a 'feature' 🤫
+It's not a bug, it's a 'feature' 🤫💀
 
 ### Quotes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" />
 
