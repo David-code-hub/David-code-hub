@@ -8,9 +8,9 @@ It's not a bug, it's a 'feature' 🤫💀
 
 <!--<h5 align="right"><i>― Bruce Lee</i></h5>-->
 
-> _"The things you own, end up owning you."_
+<!-- > _"The things you own, end up owning you."_-->
 
-<h5 align="right"><i>― Tyler Durden(fight club)</i></h5>
+<!--<h5 align="right"><i>― Tyler Durden(fight club)</i></h5>-->
 
 
 > _Trust in the LORD with all thine heart; And lean not unto thine own understanding. In all thy ways acknowledge him, And he shall direct thy paths._
