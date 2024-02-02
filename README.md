@@ -2,10 +2,6 @@
 
 I'm from Cape Town, South Africa. I enjoy drawing, gaming and reading history 😁.
 
-<!--<img src="https://github.com/David-code-hub/David-code-hub/assets/55393687/1c1623dc-747a-4f8d-a65a-244619ddb495" alt="Thought Balloon" width="250" />
-<img src="https://github.com/David-code-hub/David-code-hub/assets/55393687/9f44443e-8978-4aeb-bf5c-54d1489a28fe" alt="Thought Balloon" width="250" />
-<img src="https://github.com/David-code-hub/David-code-hub/assets/55393687/f94a6a83-fbd4-4696-9650-d7077e4a3d0d" alt="Thought Balloon" width="250" />-->
-
 ---
 
 > _Trust in the LORD with all thine heart; And lean not unto thine own understanding. In all thy ways acknowledge him, And he shall direct thy paths._
