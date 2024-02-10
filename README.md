@@ -1,6 +1,6 @@
 ### Hi, I'm David <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="40" height="40" />
 
-I'm from Cape Town, South Africa. I enjoy drawing, gaming and reading history 😁.
+I'm from South Africa, Cape Town. I enjoy drawing, gaming and reading history 😁.
 
 ---
 
