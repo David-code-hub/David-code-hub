@@ -7,3 +7,8 @@ I'm from South Africa, Cape Town. I enjoy drawing, gaming and reading history �
 > _Trust in the LORD with all thine heart; And lean not unto thine own understanding. In all thy ways acknowledge him, And he shall direct thy paths._
 > 
 <h5 align="right"><i>― Proverbs 3:5-6</i></h5>
+
+### Current Adventures🐯🌴
+
+- Learning Nuxt
+- Learning AWS
