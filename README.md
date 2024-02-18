@@ -13,7 +13,6 @@ I'm from South Africa, Cape Town. I enjoy drawing, gaming and reading history ðŸ
 - Learning Nuxt
 - Learning AWS
 
-<p align="center">
+<!--<p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=David-code-hub&border_radius=20&card_width=450&type=png&hide_border=true" alt="GitHub Streak" /></a>
-</a> 
-</p>
+</p>-->
