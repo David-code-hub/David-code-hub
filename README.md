@@ -1,4 +1,4 @@
-<img src="https://github.com/David-code-hub/David-code-hub/assets/55393687/3150bebf-d15f-493b-9492-d1712e11d46b" width="100%"/>
+<!--<img src="https://github.com/David-code-hub/David-code-hub/assets/55393687/3150bebf-d15f-493b-9492-d1712e11d46b" width="100%"/>-->
 
 Hello I'm David, I'm a web developer hailing from South Africa,Cape Town. Outside of coding, you'll find scribbling down thoughts and getting creative with some drawing. I'm all about programming and design, and I'm constantly pumped to dive into new things.
 
