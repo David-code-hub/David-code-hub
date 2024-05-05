@@ -9,6 +9,7 @@ Hello I'm David, I'm a web developer hailing from South Africa,Cape Town. Outsid
 <h5 align="right"><i>― Proverbs 3:5-6</i></h5>
 
 
+
 ### Random facts about me🤔
 
 - Favourite anime characters are Obito, Killua & Kaneki Ken 😮‍💨
@@ -18,4 +19,6 @@ Hello I'm David, I'm a web developer hailing from South Africa,Cape Town. Outsid
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=David-code-hub&border_radius=20&card_width=450&type=png&hide_border=true" alt="GitHub Streak" /></a>
+    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-code-hub&layout=compact"></a>
 </p>
+
