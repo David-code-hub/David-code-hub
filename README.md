@@ -13,7 +13,7 @@ Hello I'm David, I'm a web developer hailing from South Africa,Cape Town. Outsid
 ### Random facts about me🤔
 
 - Favourite anime characters are Obito, Killua & Kaneki Ken 😮‍💨
-- Currently watching Wind Breaker(anime) 👌🏽
+- Currently watching Wind Breaker & Black Clover 😍👌🏽
 - My current vibe is `python` & `javascript`😏
 - Currently learning php😊
 
