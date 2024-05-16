@@ -19,6 +19,6 @@ Hello I'm David, I'm a web developer hailing from South Africa,Cape Town. Outsid
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=David-code-hub&border_radius=20&card_width=450&type=png&hide_border=true" alt="GitHub Streak" /></a>
-    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-code-hub&layout=compact"></a>
-</p>
+<!--     <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-code-hub&layout=compact"></a>-->
+</p> 
 
