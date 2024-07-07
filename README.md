@@ -13,9 +13,8 @@ Hello I'm David, I'm a web developer hailing from South Africa,Cape Town. Outsid
 ### Random facts about me🤔
 
 - Favourite anime characters are Obito, Killua & Kaneki Ken 😮‍💨
-- Currently watching Wind Breaker & Black Clover 😍👌🏽
+- Currently watching Wind Breaker,Black Clover & Castlevania 😍
 - My current vibe is `python` & `javascript`😏
-- Currently learning php😊
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=David-code-hub&border_radius=20&card_width=450&type=png&hide_border=true" alt="GitHub Streak" /></a>
