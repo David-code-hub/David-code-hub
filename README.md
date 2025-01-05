@@ -1,6 +1,6 @@
 Hello! I'm David,
 
-I'm passionate about crafting beautiful user interfaces that make the web a pleasant place for all who visit.
+I'm passionate about crafting beautiful user interfaces.
 
 
 `Trust in the LORD with all thine heart; And lean not unto thine own understanding. In all thy ways acknowledge him, And he shall direct thy paths - Proverbs 3:5-6`
