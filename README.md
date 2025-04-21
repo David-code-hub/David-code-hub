@@ -8,7 +8,7 @@ I'm passionate about crafting beautiful user interfaces.
 --- 
 
 Currently watching 🍿
-- solo leveling: season 2
+- Fullmetal Alchemist
 
   
 <!--<p align="center">
